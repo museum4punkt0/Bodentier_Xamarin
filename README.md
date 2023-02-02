@@ -16,9 +16,6 @@ Die Hauptfunktionen bestehen aus Seiten zur Identifizierung von Tieren anhand vo
 Diese C# Xamarin Applikation ist Teil des Projektes museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt „BODENTIER hoch 4“. Das Projekt museum4punkt0 wird gefördert durch die  Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.  
 Weitere Informationen: [www.museum4punkt0.de](https://www.museum4punkt0.de/)
 
-https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04% 20Logos/BKM_Fz_2017_Web_de.gif
-https://github.com/museum4punkt0/media_storage/blob/e87f37973c3d91e2762d74d51bed81de5026e06e/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg
-
 ## Installation
   1. Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)  
   2. Install [Xamarin](https://visualstudio.microsoft.com/xamarin/)  
